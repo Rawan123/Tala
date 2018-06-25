@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "RAWAN", "RAWAN\Test.tsp", "F32EA87F-8B3F-441F-BD89-C1945FAA9109"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\rawan.safsaf\Documents\GitHub\Tala\RawanIntegration\RAWAN\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		F32EA87F-8B3F-441F-BD89-C1945FAA9109.Debug|Any CPU.Build.0 = Debug|Any CPU
+		F32EA87F-8B3F-441F-BD89-C1945FAA9109.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		F32EA87F-8B3F-441F-BD89-C1945FAA9109.Release|Any CPU.Build.0 = Release|Any CPU
+		F32EA87F-8B3F-441F-BD89-C1945FAA9109.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
